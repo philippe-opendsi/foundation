@@ -13,8 +13,8 @@
    inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg5433"
-   height="297mm"
-   width="210mm"
+   height="307.72125"
+   width="267.08667"
    sodipodi:docname="dolibarr_box.svg"
    inkscape:export-filename="/home/ldestail/git/foundation/logo/dolibarr_box.png"
    inkscape:export-xdpi="58.51318"
@@ -146,8 +146,9 @@
        id="filter6226"
        x="-0.16187608"
        width="1.3237522"
-       y="-0.42408719"
-       height="1.8481744">
+       y="-0.4240872"
+       height="1.8481745"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="15.286304"
@@ -222,16 +223,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="314.13356"
-     inkscape:cy="702.12761"
+     inkscape:cx="92.269576"
+     inkscape:cy="131.19842"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="989"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5438">
     <rdf:RDF>
@@ -247,11 +252,13 @@
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1"
+     transform="translate(-222.87414,-294.93003)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Calque3">
+     inkscape:label="Calque3"
+     transform="translate(-222.87414,-294.93003)">
     <path
        sodipodi:type="arc"
        style="fill:#bbbbbb;fill-opacity:1;filter:url(#filter6226)"
@@ -260,7 +267,7 @@
        sodipodi:cy="481.87854"
        sodipodi:rx="114.65231"
        sodipodi:ry="40.153564"
-       d="m 257.08382,481.87854 a 114.65231,40.153564 0 1 1 -229.30463,0 114.65231,40.153564 0 1 1 229.30463,0 z"
+       d="m 257.08382,481.87854 c 0,22.1762 -51.33159,40.15356 -114.65232,40.15356 -63.320721,0 -114.65231,-17.97736 -114.65231,-40.15356 0,-22.1762 51.331589,-40.15356 114.65231,-40.15356 63.32073,0 114.65232,17.97736 114.65232,40.15356 z"
        transform="matrix(0.87764246,-0.16194454,0.14776153,0.98676691,160.21043,69.842959)"
        inkscape:export-filename="/home/ldestailleur/git/foundation/logo/dolibarr_box_highres_en.png"
        inkscape:export-xdpi="299.7843"
@@ -638,5 +645,6 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Calque" />
+     inkscape:label="Calque"
+     transform="translate(-222.87414,-294.93003)" />
 </svg>
